@@ -1,0 +1,16 @@
+<svg width="1000" height="650" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .line {
+        fill: none;
+        stroke: rgba(255, 255, 255, 0.1);
+        stroke-width: 4;
+      }
+    </style>
+  </defs>
+  <rect class="line" x="2" y="2" width="996" height="646" />
+  <line class="line" x1="500" y1="2" x2="500" y2="648" />
+  <circle class="line" cx="500" cy="325" r="91.5" />
+  <rect class="line" x="2" y="120" width="165" height="410" />
+  <rect class="line" x="833" y="120" width="165" height="410" />
+</svg>
